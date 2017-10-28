@@ -264,6 +264,7 @@ _realclick
 ||ad.metanetwork.com/st^
 ||ad.naver.com/admobile^
 ||ad.naver.com/adshow^
+||ad.naver.com/fxshow
 ||ad.newsen.com/banner/
 ||ad.ohmynews.com/adhtmllist/adtv_
 ||ad.pickple.com/widget/
@@ -282,6 +283,7 @@ _realclick
 ||ad4980.kr^
 ||ad4989.co.kr^$third-party
 ||adalba.co.kr^$third-party
+||adbiz.co.kr
 ||adby.me^$third-party
 ||adc.dreamwiz.com^
 ||adcdn.247realmedia.co.kr/adimg/CDN/
@@ -1496,3 +1498,10 @@ ygosu.com##.ad700
 inven.co.kr###dhoAdTop
 inven.co.kr###webzineAdTop
 ||img.etnews.com/*/banner/
+! 광고 둘러싸는 객체
+naver.com##div[id^="veta_"]
+naver.com##div.section_rbn
+naver.com##div#news_cast:style(padding-top: 0px;)
+naver.com##div#shop_cast:style(margin-top: -30px;)
+naver.com##div.da
+naver.com##div.ad
