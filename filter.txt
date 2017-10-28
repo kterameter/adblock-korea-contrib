@@ -149,7 +149,6 @@ www.chosun.com###sec_health > .sec_sub > .sec_sub_ad
 /js/logger_inc.js
 /js/tgrape_cpm_for_onfos.js
 /log/nalogd.php^
-/logger.js
 /mail/ReplyMailOpen.jsp^
 /max-banner-ads-pro/
 /mint/?js
