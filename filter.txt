@@ -284,6 +284,7 @@ _realclick
 ||ad4980.kr^
 ||ad4989.co.kr^$third-party
 ||adalba.co.kr^$third-party
+||adbiz.co.kr
 ||adby.me^$third-party
 ||adc.dreamwiz.com^
 ||adcdn.247realmedia.co.kr/adimg/CDN/
