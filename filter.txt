@@ -1208,7 +1208,6 @@ _realclick
 ||sba.about.co.kr^$third-party
 ||sbtrustmedia.com^$third-party
 ||scorecardresearch.com^$third-party
-||script.auction.co.kr/ad/
 ||script.auction.co.kr/common/SRUAdserverSubHeader.htm^
 ||script.auction.co.kr/common/happynote.js
 ||script.hankyung.com/www/js/iconad_hankyung2.js
